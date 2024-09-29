@@ -1,6 +1,0 @@
-import numpy as np
-
-# Generate 5 random integers between 10 and 50 (inclusive)
-random_numbers = np.random.randint(10, 51, size=5)
-
-print("5 random numbers between 10 and 50:", random_numbers)
